@@ -1,8 +1,8 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
-        this.initVueJs();
+        this.bindEvents()
+        this.initVueJs()
     },
 
     // deviceready Event Handler
