@@ -4,7 +4,7 @@
   "name": "StarsUp",
   "short_name": "StarsUp",
   "version": "fr.ppesio.starsup",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "L'application des testeurs de votre établissement.",
   "author": "Apache Cordova Team",
   "icons": [],
   "start_url": "index.html"
